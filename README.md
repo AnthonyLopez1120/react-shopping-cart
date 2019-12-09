@@ -4,7 +4,7 @@ In this module you will take your newfound knowledge of `Context API` and refact
 
 ## Instructions
 
-Read these instructions carefully. Understand exactly what is expected _before_ starting this project.
+Read these instructions carefully. Understand exactly what is expected _before_ starting this project
 
 ## Commits
 
